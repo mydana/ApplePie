@@ -37,7 +37,6 @@ class ViewController: UIViewController {
     var currentGame: Game!
     
     func newRound(){
-        enableLetterButtons(true)
         if !listOfWords.isEmpty{
             let newWord = listOfWords.removeFirst()
             currentGame = Game(word: newWord,incorrectMovesRemaining:incorrectMovedAllowed,guessedLetters: [])
@@ -83,10 +82,8 @@ class ViewController: UIViewController {
     func updatedGameState(){
         if currentGame.incorrectMovesRemaining == 0 {
             totalLosses += 1
-            enableLetterButtons(true)
         } else if currentGame.word == currentGame.formattedWord {
             totalWins += 1
-            enableLetterButtons(true)
         } else {
             updateUI()
         }

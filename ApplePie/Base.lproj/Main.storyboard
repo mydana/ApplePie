@@ -334,6 +334,31 @@
                         <outlet property="scoreLabel" destination="pmw-Da-wTo" id="O5P-2J-YyJ"/>
                         <outlet property="treeImageView" destination="jGg-ST-4hB" id="XUF-Zo-5hl"/>
                         <outletCollection property="letterButtons" destination="y87-vl-eDb" collectionClass="NSMutableArray" id="0Re-68-09P"/>
+                        <outletCollection property="letterButtons" destination="fnX-It-0z1" collectionClass="NSMutableArray" id="Zkb-rd-jSd"/>
+                        <outletCollection property="letterButtons" destination="Y9C-Zf-Lt6" collectionClass="NSMutableArray" id="oEa-1Q-QUq"/>
+                        <outletCollection property="letterButtons" destination="Xhw-AX-rNp" collectionClass="NSMutableArray" id="gyH-re-m5W"/>
+                        <outletCollection property="letterButtons" destination="X38-0C-zy4" collectionClass="NSMutableArray" id="9xQ-m3-WCS"/>
+                        <outletCollection property="letterButtons" destination="Asd-ra-wQ3" collectionClass="NSMutableArray" id="7tf-Om-8ay"/>
+                        <outletCollection property="letterButtons" destination="BZo-Iw-L2S" collectionClass="NSMutableArray" id="D8D-hg-blr"/>
+                        <outletCollection property="letterButtons" destination="8Oy-Ey-9fo" collectionClass="NSMutableArray" id="mII-mJ-jUO"/>
+                        <outletCollection property="letterButtons" destination="zL6-E3-8Ch" collectionClass="NSMutableArray" id="M1F-7e-zPt"/>
+                        <outletCollection property="letterButtons" destination="wJ1-PP-5mL" collectionClass="NSMutableArray" id="q1d-oB-qzK"/>
+                        <outletCollection property="letterButtons" destination="rRN-6H-QVK" collectionClass="NSMutableArray" id="h6J-Ib-8TJ"/>
+                        <outletCollection property="letterButtons" destination="9Ry-u1-Eqg" collectionClass="NSMutableArray" id="bex-Jd-L7D"/>
+                        <outletCollection property="letterButtons" destination="05F-HD-XWa" collectionClass="NSMutableArray" id="TN0-AI-fcB"/>
+                        <outletCollection property="letterButtons" destination="MAD-7E-yfQ" collectionClass="NSMutableArray" id="gOZ-hd-jes"/>
+                        <outletCollection property="letterButtons" destination="3L1-JK-odO" collectionClass="NSMutableArray" id="CxJ-hh-Ha8"/>
+                        <outletCollection property="letterButtons" destination="3vE-68-jMG" collectionClass="NSMutableArray" id="p2R-nY-Mx9"/>
+                        <outletCollection property="letterButtons" destination="T7t-Uu-0hU" collectionClass="NSMutableArray" id="DeB-rp-gzD"/>
+                        <outletCollection property="letterButtons" destination="18j-Eg-8Vs" collectionClass="NSMutableArray" id="u8z-2g-tuO"/>
+                        <outletCollection property="letterButtons" destination="din-Ce-HIn" collectionClass="NSMutableArray" id="rHf-ZJ-cX9"/>
+                        <outletCollection property="letterButtons" destination="P3S-gf-TZE" collectionClass="NSMutableArray" id="9sd-Jb-jZo"/>
+                        <outletCollection property="letterButtons" destination="uwI-bV-Xj6" collectionClass="NSMutableArray" id="uwS-5R-kIk"/>
+                        <outletCollection property="letterButtons" destination="CMx-3R-krz" collectionClass="NSMutableArray" id="gN6-ka-ccV"/>
+                        <outletCollection property="letterButtons" destination="19H-TT-W6G" collectionClass="NSMutableArray" id="ufI-6l-EyZ"/>
+                        <outletCollection property="letterButtons" destination="QgU-Wo-zdh" collectionClass="NSMutableArray" id="ijh-Nb-KcG"/>
+                        <outletCollection property="letterButtons" destination="b6p-Jb-Ydn" collectionClass="NSMutableArray" id="FQT-mx-85E"/>
+                        <outletCollection property="letterButtons" destination="aml-6X-OWs" collectionClass="NSMutableArray" id="ffm-OM-Mi2"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
