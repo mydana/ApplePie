@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5ECAB6ED2D8DFC37005CDB65 /* ApplePie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApplePie.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		37BEC4452D974A1D0073E5F8 /* Apple Pi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pi.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		5ECAB6FF2D8DFC38005CDB65 /* Exceptions for "ApplePie" folder in "ApplePie" target */ = {
+		37BEC4572D974A1E0073E5F8 /* Exceptions for "Apple Pi" folder in "Apple Pi" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 5ECAB6EC2D8DFC37005CDB65 /* ApplePie */;
+			target = 37BEC4442D974A1D0073E5F8 /* Apple Pi */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5ECAB6EF2D8DFC37005CDB65 /* ApplePie */ = {
+		37BEC4472D974A1D0073E5F8 /* Apple Pi */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				5ECAB6FF2D8DFC38005CDB65 /* Exceptions for "ApplePie" folder in "ApplePie" target */,
+				37BEC4572D974A1E0073E5F8 /* Exceptions for "Apple Pi" folder in "Apple Pi" target */,
 			);
-			path = ApplePie;
+			path = "Apple Pi";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5ECAB6EA2D8DFC37005CDB65 /* Frameworks */ = {
+		37BEC4422D974A1D0073E5F8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5ECAB6E42D8DFC37005CDB65 = {
+		37BEC43C2D974A1D0073E5F8 = {
 			isa = PBXGroup;
 			children = (
-				5ECAB6EF2D8DFC37005CDB65 /* ApplePie */,
-				5ECAB6EE2D8DFC37005CDB65 /* Products */,
+				37BEC4472D974A1D0073E5F8 /* Apple Pi */,
+				37BEC4462D974A1D0073E5F8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5ECAB6EE2D8DFC37005CDB65 /* Products */ = {
+		37BEC4462D974A1D0073E5F8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5ECAB6ED2D8DFC37005CDB65 /* ApplePie.app */,
+				37BEC4452D974A1D0073E5F8 /* Apple Pi.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5ECAB6EC2D8DFC37005CDB65 /* ApplePie */ = {
+		37BEC4442D974A1D0073E5F8 /* Apple Pi */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5ECAB7002D8DFC38005CDB65 /* Build configuration list for PBXNativeTarget "ApplePie" */;
+			buildConfigurationList = 37BEC4582D974A1E0073E5F8 /* Build configuration list for PBXNativeTarget "Apple Pi" */;
 			buildPhases = (
-				5ECAB6E92D8DFC37005CDB65 /* Sources */,
-				5ECAB6EA2D8DFC37005CDB65 /* Frameworks */,
-				5ECAB6EB2D8DFC37005CDB65 /* Resources */,
+				37BEC4412D974A1D0073E5F8 /* Sources */,
+				37BEC4422D974A1D0073E5F8 /* Frameworks */,
+				37BEC4432D974A1D0073E5F8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5ECAB6EF2D8DFC37005CDB65 /* ApplePie */,
+				37BEC4472D974A1D0073E5F8 /* Apple Pi */,
 			);
-			name = ApplePie;
+			name = "Apple Pi";
 			packageProductDependencies = (
 			);
-			productName = ApplePie;
-			productReference = 5ECAB6ED2D8DFC37005CDB65 /* ApplePie.app */;
+			productName = "Apple Pi";
+			productReference = 37BEC4452D974A1D0073E5F8 /* Apple Pi.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5ECAB6E52D8DFC37005CDB65 /* Project object */ = {
+		37BEC43D2D974A1D0073E5F8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					5ECAB6EC2D8DFC37005CDB65 = {
+					37BEC4442D974A1D0073E5F8 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 5ECAB6E82D8DFC37005CDB65 /* Build configuration list for PBXProject "ApplePie" */;
+			buildConfigurationList = 37BEC4402D974A1D0073E5F8 /* Build configuration list for PBXProject "Apple Pi" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5ECAB6E42D8DFC37005CDB65;
+			mainGroup = 37BEC43C2D974A1D0073E5F8;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 5ECAB6EE2D8DFC37005CDB65 /* Products */;
+			productRefGroup = 37BEC4462D974A1D0073E5F8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5ECAB6EC2D8DFC37005CDB65 /* ApplePie */,
+				37BEC4442D974A1D0073E5F8 /* Apple Pi */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5ECAB6EB2D8DFC37005CDB65 /* Resources */ = {
+		37BEC4432D974A1D0073E5F8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5ECAB6E92D8DFC37005CDB65 /* Sources */ = {
+		37BEC4412D974A1D0073E5F8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,17 +138,16 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		5ECAB7012D8DFC38005CDB65 /* Debug */ = {
+		37BEC4592D974A1E0073E5F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 674ZGWZGPX;
+				DEVELOPMENT_TEAM = 8N74ZX65FW;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ApplePie/Info.plist;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
+				INFOPLIST_FILE = "Apple Pi/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -159,7 +158,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.georgemckinney.applepie.ApplePie;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.shinyshiny.Apple-Pi";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -171,17 +170,16 @@
 			};
 			name = Debug;
 		};
-		5ECAB7022D8DFC38005CDB65 /* Release */ = {
+		37BEC45A2D974A1E0073E5F8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 674ZGWZGPX;
+				DEVELOPMENT_TEAM = 8N74ZX65FW;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ApplePie/Info.plist;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.games";
+				INFOPLIST_FILE = "Apple Pi/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -192,7 +190,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.georgemckinney.applepie.ApplePie;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.shinyshiny.Apple-Pi";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -204,7 +202,7 @@
 			};
 			name = Release;
 		};
-		5ECAB7032D8DFC38005CDB65 /* Debug */ = {
+		37BEC45B2D974A1E0073E5F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -267,7 +265,7 @@
 			};
 			name = Debug;
 		};
-		5ECAB7042D8DFC38005CDB65 /* Release */ = {
+		37BEC45C2D974A1E0073E5F8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -326,25 +324,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5ECAB6E82D8DFC37005CDB65 /* Build configuration list for PBXProject "ApplePie" */ = {
+		37BEC4402D974A1D0073E5F8 /* Build configuration list for PBXProject "Apple Pi" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5ECAB7032D8DFC38005CDB65 /* Debug */,
-				5ECAB7042D8DFC38005CDB65 /* Release */,
+				37BEC45B2D974A1E0073E5F8 /* Debug */,
+				37BEC45C2D974A1E0073E5F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5ECAB7002D8DFC38005CDB65 /* Build configuration list for PBXNativeTarget "ApplePie" */ = {
+		37BEC4582D974A1E0073E5F8 /* Build configuration list for PBXNativeTarget "Apple Pi" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5ECAB7012D8DFC38005CDB65 /* Debug */,
-				5ECAB7022D8DFC38005CDB65 /* Release */,
+				37BEC4592D974A1E0073E5F8 /* Debug */,
+				37BEC45A2D974A1E0073E5F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5ECAB6E52D8DFC37005CDB65 /* Project object */;
+	rootObject = 37BEC43D2D974A1D0073E5F8 /* Project object */;
 }

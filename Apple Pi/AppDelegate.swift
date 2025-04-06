@@ -1,8 +1,8 @@
-	//
-//  AppDelegate.swift
-//  ApplePie
 //
-//  Created by George McKinney on 3/21/25.
+//  AppDelegate.swift
+//  Apple Pi
+//
+//  Created by Dana Runge on 3/28/25.
 //
 
 import UIKit

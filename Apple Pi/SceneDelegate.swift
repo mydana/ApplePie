@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  ApplePie
+//  Apple Pi
 //
-//  Created by George McKinney on 3/21/25.
+//  Created by Dana Runge on 3/28/25.
 //
 
 import UIKit
